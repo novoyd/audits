@@ -10,3 +10,4 @@ Public index of security audit reports I have worked on.
 ## Recognition
 
 - [Ranked #1 overall on the Solana Audit Arena leaderboard](https://github.com/Frankcastleauditor/Solana-Audit-Arena/blob/c0abb4fe8aad280978e746cb2d9d6cf03ae286de/LEADERBOARD.md) as of the Week 4 update.
+- [Named by CertiK for landing a valid confirmed finding](https://x.com/CertiK/status/2057216586210029902?s=20) in the AI Auditor Lite challenge.
