@@ -9,4 +9,4 @@ Public index of security audit reports I have worked on.
 
 ## Recognition
 
-- [Solana Audit Arena leaderboard](https://github.com/Frankcastleauditor/Solana-Audit-Arena/blob/main/LEADERBOARD.md)
+- [Ranked #1 overall on the Solana Audit Arena leaderboard](https://github.com/Frankcastleauditor/Solana-Audit-Arena/blob/c0abb4fe8aad280978e746cb2d9d6cf03ae286de/LEADERBOARD.md) as of the Week 4 update.
