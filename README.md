@@ -4,7 +4,7 @@ Public index of security audit reports I have worked on.
 
 | Project | Report | Published by |
 | --- | --- | --- |
-| Smoke Ring | [Smoke Ring Security Review - Solana / LayerZero](Smoke-Sol-Security-Review.pdf) | SBSecurity |
+| Smoke Ring | [Smoke Ring Security Review - Solana / LayerZero](https://github.com/novoyd/audits/blob/reports/Smoke-Sol-Security-Review.pdf) | SBSecurity |
 | Riverboat | [Riverboat Security Review - Mainnet Alpha v1.0](https://github.com/SlotZeroSecurity/audits/blob/main/Riverboat-Security-Review-Mainnet-Alpha-v1.0.pdf) | Slot Zero Security |
 | Riverboat | [Riverboat Security Review - Mainnet Alpha v0.9](https://github.com/SlotZeroSecurity/audits/blob/main/Riverboat-Security-Review-Mainnet-Alpha-v0.9.pdf) | Slot Zero Security |
 | Trepa | [2026-04 Trepa Security Review](https://github.com/phage-security/audits/blob/main/2026-04-trepa.pdf) | Phage Security |
